@@ -2,10 +2,10 @@
 
 # website settings
 website:
-  title: "Praveen Punia"                                # Your name
-  description: "Praveen is PhD candidate in Marketing at University of Houston"   # A brief slogan (optional)
+  title: "Renu Sharma"                                # Your name
+  description: "Renu is PhD candidate in Marketing at University of Houston"   # A brief slogan (optional)
   image: img/my_image.jpg
-  site-url: "https://praveenpunia.github.io"  # Add your website URL This creates sitemap xml file
+  site-url: "https://sharma-renu.github.io"  # Add your website URL This creates sitemap xml file
   
   # favicon: img/favicon.png
   

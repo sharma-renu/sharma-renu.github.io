@@ -8,15 +8,15 @@ about:
     # - icon: twitter
     #   text: Twitter
     #   href: https://twitter.com/MarvinSchmittML
-    - icon: github
-      text: Github
-      href: https://github.com/praveenpunia
+    #- icon: github
+      # text: Github
+      # href: https://github.com/praveenpunia
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/praveen-punia/
+      href: https://www.linkedin.com/in/renu-sharma-15891929a/
     - icon: envelope
       text: Email
-      href: "mailto:ppraveen@bauer.uh.com"  
+      href: "mailto:rsharm45@bauer.uh.edu"  
 ---
 
 <!-- ::: {#about-block} -->
@@ -24,9 +24,9 @@ about:
 
 ## Welcome!
 
-I am Praveen Punia, Ph.D. student in Marketing at the University of Houston, with a passion for leveraging data-driven insights to understand organizational dynamics and enhance marketing effectiveness. My research interests are in the domain of Quantitative Marketing Strategy, with a focus on two research areas: Career Management and Creator Economy/Livestreaming. I specializes in using various methods for answering substantive questions, including econometric modeling, causal machine learning, and game theory, to generate actionable insights that bridge theory and practice.
+I am Renu Sharma, Ph.D. student in Marketing at the University of Houston, with a passion for leveraging data-driven insights to understand organizational dynamics and enhance marketing effectiveness. My research interests are in the domain of Quantitative Marketing Strategy, with a focus on two research areas: Career Management and Creator Economy/Livestreaming. I specializes in using various methods for answering substantive questions, including econometric modeling, causal machine learning, and game theory, to generate actionable insights that bridge theory and practice.
 
-My dissertation has been recognized with the 2025 Sales SIG Best Doctoral Dissertation Proposal Award, with the first essay also published in the MSI Working Paper Series. My paper examining performance incentives and employee retention is currently invited for third-round revision at the Journal of Marketing Research and received the best paper award at the 2024 OFR Symposium.
+My dissertation has been recognized with the 2026 Sales SIG Runner-up Doctoral Dissertation Proposal Award.
 
 <!-- 
 Prior to joining the University of Houston, I worked as a Research Associate in Marketing at the Indian School of Business. I have a Master’s degree in Financial Economics from the University of Hyderabad, India.
