@@ -24,9 +24,9 @@ about:
 
 ## Welcome!
 
-I am Renu Sharma, Ph.D. student in Marketing at the University of Houston, with a passion for leveraging data-driven insights to understand organizational dynamics and enhance marketing effectiveness. My research interests are in the domain of Quantitative Marketing Strategy, with a focus on two research areas: Career Management and Creator Economy/Livestreaming. I specializes in using various methods for answering substantive questions, including econometric modeling, causal machine learning, and game theory, to generate actionable insights that bridge theory and practice.
+I am Renu Sharma, a Ph.D. student in Marketing at the University of Houston’s Bauer College of Business, with a passion for leveraging data-driven insights to understand sales strategy and salesforce management. My research interests are in the domain of sales strategy, with a focus on salesforce job design, incentives, and compensation, as well as gender disparities in sales careers and how job attributes shape career entry decisions. I specialize in using quantitative and empirical methods to answer substantive questions related to sales careers and organizational decision-making, generating actionable insights that bridge theory and practice.
 
-My dissertation has been recognized with the 2026 Sales SIG Runner-up Doctoral Dissertation Proposal Award.
+My dissertation work was recognized as the runner-up for the 2026 Sales SIG Doctoral Dissertation Proposal Award.
 
 <!-- 
 Prior to joining the University of Houston, I worked as a Research Associate in Marketing at the Indian School of Business. I have a Master’s degree in Financial Economics from the University of Hyderabad, India.
