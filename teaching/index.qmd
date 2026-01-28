@@ -8,45 +8,19 @@ title: "<h1 style='text-align: center;'>Teaching Interests</h1>" #"Teaching"
 </div> -->
 
 <div style="text-align: center;">
-Marketing Analytics, Marketing Strategy, Digital Selling, Digital Marketing, AI in Marketing
+Sales Management, Marketing Analytics, Marketing Strategy, Digital Selling, Digital Marketing, AI in Marketing
 </div>
 
 <div style="text-align: center;">
 # Teaching Experience
 </div>
 
-## Instructor
+## Teaching Assitant
 
-**MARK3338: Introduction to Marketing Analytics** (Undergraduate Elective), Summer 2025
+**MARK 3337: Professional Selling** (Undergraduate Elective), Spring 2024
 
-- Instructor rating: **4.8/5.0** (school average: 4.57/5.0)
+**MARK 3337: Professional Selling** (Undergraduate Elective), Spring 2025
 
-Selected comments from student evaluations:
+**MARK 3337: Professional Selling** (Undergraduate Elective), Spring 2026
 
-- "Straightforward organization of course materials, reasonable pacing of assignments (as someone who only works part-time), relevant information, encouraging professor."
 
-- "This class is a challenging course, but the professor makes it easy to understand and always supports you if you have any question."
-
-- "Professor Praveen is the best professor I have ever had; the videos were super helpful and entertaining. I always felt prepared for assignments and exams! I really enjoyed the hands-on excel assignments. Overall, 10/10 class!"
-
-- "The Professor is very good at his profession and would recommend him to other students."
-
-- "Professor Praveen is a great professor! he really cares about his students and wants them to be successful. He always offers his help when students are having trouble."
-
-**MARK3338: Introduction to Marketing Analytics** (Undergraduate Elective), Summer 2024
-
-- Instructor rating: **4.64/5.0** (school average: 4.45/5.0)
-
-Selected comments from student evaluations:
-
-- "This is one of the best courses I have ever taken while here at UH. I was able to fully get understand what was being taught."
-
-- "The overall covering of excel in the course went well. It was the best way to learn the excel commands..."
-
-- "The professor explained topics well and guided us through in class exercises thoroughly. Professor provided much feedback."
-
-- "The professor was great, helpful and attentive to students. I would highly suggest this professor to anyone taking Marketing Analytics."
-
-## Teaching Assistant
-
-**MARK 3337: Professional Selling** (Undergraduate Elective)
